@@ -35,3 +35,7 @@ Demonstrates layout skills, responsive design principles, and clean code organiz
 1. Clone the repo  
    ```bash
    git clone https://github.com/mikyyDev/edutech-academy.git
+   Open the project folder.
+2.Double-click index.html to view it in your browser (or use VS Code's Live Server extension for real-time previews).
+
+Feel free to explore, fork, or use it as inspiration! Built with dedication in Addis Ababa for my university coursework. 📚💻
