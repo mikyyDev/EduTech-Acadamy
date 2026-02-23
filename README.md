@@ -1,30 +1,37 @@
+# EduTech Academy Landing Page
 
-EduTech Academy Landing Page
-A clean, modern, and fully responsive landing page for EduTech Academy — a fictional online education platform offering courses, skill-building programs, and tech-focused learning. Built purely with HTML and CSS as an assignment for the Internet Programming course (no frameworks used)!
-Live Demo
-🌐 View the live site here:
-https://mikyyDev.github.io/edutech-academy/
-(Update this with your actual GitHub Pages link once you deploy it — e.g., https://yourusername.github.io/edutech-academy/)
-Features
+A clean, modern, and fully responsive landing page for **EduTech Academy** — a fictional online education platform offering courses, skill-building programs, and tech-focused learning. Built with pure **HTML** & **CSS** (no frameworks!) as an assignment for my Internet Programming course.
 
-Sleek and professional design tailored for education/technology
-Fully responsive layout (adapts perfectly to mobile phones, tablets, and desktops)
-Hero section with welcoming message and call-to-action (e.g., "Enroll Now" or course search)
-Sections for featured courses, about the academy, why choose us, testimonials from learners, and contact/enrollment form
-Clean typography, modern color scheme (e.g., blues/greens for trust & growth), and intuitive navigation
-Mobile-friendly menu and hover effects for better user experience
+<div align="center">
+  <img src="images/screenshot.png" alt="EduTech Academy Preview" width="80%"/>
+</div>
 
-Technologies Used
+## ✨ Live Demo
 
-HTML5 (semantic structure for accessibility)
-CSS3 (Flexbox, Grid, media queries for responsiveness, transitions/animations)
+🌐 [View live site →](https://mikyyDev.github.io/edutech-academy/)
 
-Project Purpose
-This was the assignment given by my Internet Programming teacher: to create a responsive, multi-section landing page for an educational/tech-themed website using only HTML and CSS. It demonstrates layout skills, responsive design principles, and clean code organization.
-How to Run Locally
+## 📌 Features
 
-Clone the repo (or download the ZIP):textgit clone https://github.com/mikyyDev/edutech-academy.git
-Open the project folder.
-Double-click index.html to view it in your browser (or use VS Code's Live Server extension for real-time previews).
+- Sleek, professional design tailored for education & technology
+- Fully responsive layout (mobile, tablet, desktop)
+- Hero section with welcoming message & strong call-to-action
+- Sections: Featured courses, About, Why choose us, Testimonials, Contact/Enroll form
+- Clean typography + modern color scheme (blues/greens for trust & growth)
+- Intuitive navigation + hover effects
 
-Feel free to explore, fork, or use it as inspiration! Built with dedication in Addis Ababa for my university coursework. 📚💻
+## 🛠️ Technologies Used
+
+- **HTML5** — semantic structure for accessibility
+- **CSS3** — Flexbox, Grid, media queries, transitions/animations
+
+## 🎯 Project Purpose
+
+Assignment from my Internet Programming course:  
+Create a responsive, multi-section landing page for an educational/tech-themed site using **only HTML & CSS**.  
+Demonstrates layout skills, responsive design principles, and clean code organization.
+
+## 🚀 Run Locally
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/mikyyDev/edutech-academy.git
