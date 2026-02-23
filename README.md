@@ -3,7 +3,7 @@
 A clean, modern, and fully responsive landing page for **EduTech Academy** — a fictional online education platform offering courses, skill-building programs, and tech-focused learning. Built with pure **HTML** & **CSS** (no frameworks!) as an assignment for my Internet Programming course.
 
 <div align="center">
-  <img src="image/screenshot.png" alt="EduTech Academy Preview" width="80%"/>
+  <img src="images/Screenshot.png" alt="EduTech Academy Preview" width="80%"/>
 </div>
 
 ## ✨ Live Demo
